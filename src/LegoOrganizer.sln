@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegoOrganizer.Tests", "LegoOrganizer.Tests\LegoOrganizer.Tests.csproj", "{CC0E480D-DD38-45DC-BCE7-D6D62A706FD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegoOrganizer", "LegoOrganizer\LegoOrganizer.csproj", "{042F101B-C7A2-4E8F-8C4D-650609007D39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC0E480D-DD38-45DC-BCE7-D6D62A706FD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC0E480D-DD38-45DC-BCE7-D6D62A706FD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC0E480D-DD38-45DC-BCE7-D6D62A706FD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC0E480D-DD38-45DC-BCE7-D6D62A706FD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{042F101B-C7A2-4E8F-8C4D-650609007D39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{042F101B-C7A2-4E8F-8C4D-650609007D39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{042F101B-C7A2-4E8F-8C4D-650609007D39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{042F101B-C7A2-4E8F-8C4D-650609007D39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
